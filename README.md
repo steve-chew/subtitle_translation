@@ -1,7 +1,14 @@
 # subtitle_translation
 a repo on anything related to subtitle translation, including tools, workflow, etc.
-## Translation Job Sites  
-
+## Job Sites  
+### Subtitling Companies
+ - Deluxe (Sfera)
+ - Pixelogic Media
+ - iYuno SDI
+ - Netflix
+ - BTI
+### Directory
+- 
 ## Subtitle Translation Tools  
 - Aegisub
 - Subtitle Edit
