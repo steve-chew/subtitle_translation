@@ -6,4 +6,5 @@
 - 老爷 Old Master
 - 嫁妆 dowry
 - 和离 divorce
+- 不吉利 inauspicious
 
