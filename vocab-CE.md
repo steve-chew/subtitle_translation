@@ -13,5 +13,6 @@
 - 姑爷 Master-in-law
 - 打马吊 play madiao cards  
   (History and Development of Mahjong: https://www.the-mahjong-guide.com/history-and-development-of-mahjong.html)
-- 降旨 issue an emperial edict/decree
+- 降旨 issue an emperial edict / issue an emperial decree
+- 县令 Magistrate
 
