@@ -7,4 +7,5 @@
 - 嫁妆 dowry
 - 和离 divorce
 - 不吉利 inauspicious
+- 愿闻其详 I'm all ears.
 
