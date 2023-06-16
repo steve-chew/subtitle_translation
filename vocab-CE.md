@@ -17,5 +17,6 @@
 - 县令 Magistrate
 - 驸马,驸马都尉 fuma, emperor's son-in-law, Princess' consort
 - 峰回路转，柳暗花明 After twists and turns, there is the way out.
+- 快点 Chop chop!
 - 
 
