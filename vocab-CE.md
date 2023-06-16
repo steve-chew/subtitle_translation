@@ -1,5 +1,7 @@
 # Vocabulary, Simplified Chinese - English
 - 吉时 propitious hour  
 - 喜盖 bridal veil
-- 
+- 小姐，大小姐 Miss
+- 公子 Master
+- 老爷 Old Master
 
