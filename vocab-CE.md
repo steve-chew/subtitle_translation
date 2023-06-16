@@ -4,4 +4,5 @@
 - 小姐，大小姐 Miss
 - 公子 Master
 - 老爷 Old Master
+- 嫁妆 dowry
 
