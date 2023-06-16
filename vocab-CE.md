@@ -4,6 +4,7 @@
 - 小姐，大小姐 Miss
 - 公子 Master
 - 老爷 Old Master
+- 夫人 Madame
 - 嫁妆 dowry
 - 和离 divorce
 - 不吉利 inauspicious
