@@ -15,6 +15,7 @@
   (History and Development of Mahjong: https://www.the-mahjong-guide.com/history-and-development-of-mahjong.html)
 - 降旨 issue an emperial edict / issue an emperial decree
 - 县令 Magistrate
-- 驸马
+- 驸马 emperor's son-in-law, Princess' husband (prince-in-law 哈哈)
 - 峰回路转，柳暗花明 After twists and turns, there is the way out.
+- 
 
