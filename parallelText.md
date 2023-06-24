@@ -9,5 +9,6 @@
 | My lawyer's looking into it. | 我的律师正在调查 |
 | Keep it together. | 别慌 |
 | You broke your NDA. | 你违法了保密协议 |
+| The board wants you out. | 董事会想让你走人 |
 
 
