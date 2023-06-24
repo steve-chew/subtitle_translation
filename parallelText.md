@@ -1,4 +1,4 @@
-### Parallel Text
+### Parallel Texts
 
 | English | Chinese |
 | --- | --- |
