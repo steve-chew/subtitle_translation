@@ -1,4 +1,7 @@
+### Parallel Text
 
-| foo | bar |
+| English | Chinese |
 | --- | --- |
-| baz | bim |
+| You're being very melodramatic. | 你太小题大作了。 |
+| It's uncalled for. | 没必要这样 |
+
