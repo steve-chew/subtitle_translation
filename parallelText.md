@@ -7,4 +7,5 @@
 | Shame on you. | 你真不要脸 |
 | How'd it come across? | 怎么样？ |
 | My lawyer's looking into it. | 我的律师正在调查 |
+| Keep it together. | 别慌 |
 
