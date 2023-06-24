@@ -15,6 +15,10 @@
 | Sayonara | 永别了 https://www.youtube.com/channel/UCwpxAR3w48jIOCUIUAeNe1Q |
 | They're in the clear. | 他们没毛病 / 他们没犯法 |
 | Some mumbo jumbo crap. | 什么乱七八糟的鬼话 |
+| This thing is watertight. | 这事天衣无缝 / 无懈可击 |
+| They embellished / embroidered things. | 他们添油加醋 / 添枝加叶 |
+
+
 
 
 
