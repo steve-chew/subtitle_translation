@@ -12,7 +12,7 @@
 | The board wants you out. | 董事会想让你走人 |
 | I'm here to help you pack. | 我来帮你收拾东西 |
 | Right on. | 好极了 / 太对了 |
-| Sayonara | 永别了 | https://www.youtube.com/channel/UCwpxAR3w48jIOCUIUAeNe1Q
+| Sayonara | 永别了 https://www.youtube.com/channel/UCwpxAR3w48jIOCUIUAeNe1Q |
 | They're in the clear. | 他们没毛病 / 他们没犯法 |
 | Some mumbo jumbo crap. | 什么乱七八糟的鬼话 |
 
