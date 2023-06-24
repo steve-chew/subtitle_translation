@@ -10,5 +10,8 @@
 | Keep it together. | 别慌 |
 | You broke your NDA. | 你违法了保密协议 |
 | The board wants you out. | 董事会想让你走人 |
+| I'm here to help you pack. | 我来帮你收拾东西 |
+| Right on. | 好极了 / 太对了 |
+
 
 
