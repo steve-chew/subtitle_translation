@@ -9,7 +9,7 @@
 | My lawyer's looking into it. | 我的律师正在调查 |
 | Keep it together. | 别慌 |
 | You broke your NDA. | 你违法了保密协议 |
-| The board wants you out. | 董事会想让你走人 |
+| The board wants you out. | 董事会想让你走人 <br>The board wants to chuck you out. |
 | I'm here to help you pack. | 我来帮你收拾东西 |
 | Right on. | 好极了 / 太对了 |
 | Sayonara | 永别了 https://www.youtube.com/channel/UCwpxAR3w48jIOCUIUAeNe1Q |
@@ -22,6 +22,8 @@
 | I don't want to be associated with you. | 我不想和你有任何瓜葛 |
 | You're a fucking enabler. | 你也是始作俑者 |
 | Have them pull the plug on the show. | 让他们停掉这档节目 |
+| Hence the name. | 由此得名 |
+| Where were we at? | 我们刚聊到哪了？ |
 
 
 
