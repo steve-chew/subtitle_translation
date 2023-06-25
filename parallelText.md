@@ -19,6 +19,7 @@
 | They embellished / embroidered things. | 他们添油加醋 / 添枝加叶 |
 | For passing herself off as me! | 因为她冒充我 |
 | Let's collect ourselves. | 我们先定定神 / 我们冷静冷静 |
+| I don't want to be associated with you. | 我不想和你有任何瓜葛 |
 
 
 
