@@ -17,6 +17,8 @@
 | Some mumbo jumbo crap. | 什么乱七八糟的鬼话 |
 | This thing is watertight. | 这事天衣无缝 / 无懈可击 |
 | They embellished / embroidered things. | 他们添油加醋 / 添枝加叶 |
+| For passing herself off as me! | 因为她冒充我 |
+
 
 
 
