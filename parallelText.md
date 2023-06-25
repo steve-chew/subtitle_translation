@@ -21,6 +21,7 @@
 | Let's collect ourselves. | 我们先定定神 / 我们冷静冷静 |
 | I don't want to be associated with you. | 我不想和你有任何瓜葛 |
 | You're a fucking enabler. | 你也是始作俑者 |
+| Have them pull the plug on the show. | 让他们停掉这档节目 |
 
 
 
