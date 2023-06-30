@@ -1,4 +1,4 @@
-Transformers: Rise of the Beasts,《变形金刚：超能勇士崛起》（IMDb: tt5090568
+#Transformers: Rise of the Beasts,《变形金刚：超能勇士崛起》, tt5090568
 ---
 Iyuno says on its LinkedIn page a week ago on June 24 that:
 > Iyuno was proud to provide LAS and Italian languages services for Transformers: Rise of the Beasts.  
